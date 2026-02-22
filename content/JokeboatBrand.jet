@@ -6,11 +6,11 @@
         }, 
         {
             "id": 2, 
-            "topic": "Warby Parker"
+            "topic": "de Kruidvat"
         }, 
         {
             "id": 3, 
-            "topic": "Home Depot"
+            "topic": "de FEBO"
         }, 
         {
             "id": 4, 
@@ -18,7 +18,7 @@
         }, 
         {
             "id": 5, 
-            "topic": "Arby\u2019s"
+            "topic": "Kees Kroket"
         }, 
         {
             "id": 6, 
@@ -26,7 +26,7 @@
         }, 
         {
             "id": 7, 
-            "topic": "Blockbuster"
+            "topic": "de Free Record Shop"
         }, 
         {
             "id": 8, 
@@ -34,15 +34,15 @@
         }, 
         {
             "id": 9, 
-            "topic": "Goldman Sachs"
+            "topic": "de Zeeman"
         }, 
         {
             "id": 10, 
-            "topic": "Burger King"
+            "topic": "de Burger King"
         }, 
         {
             "id": 11, 
-            "topic": "BuzzFeed"
+            "topic": "de feesboek"
         }, 
         {
             "id": 12, 
@@ -50,15 +50,15 @@
         }, 
         {
             "id": 13, 
-            "topic": "Costco"
+            "topic": "de Sligro"
         }, 
         {
             "id": 14, 
-            "topic": "Craigslist"
+            "topic": "Marktplaats"
         }, 
         {
             "id": 15, 
-            "topic": "Crayola"
+            "topic": "Bic"
         }, 
         {
             "id": 16, 
@@ -74,19 +74,19 @@
         }, 
         {
             "id": 19, 
-            "topic": "Clorox"
+            "topic": "Mr Proper"
         }, 
         {
             "id": 20, 
-            "topic": "FedEx"
+            "topic": "PostNL"
         }, 
         {
             "id": 21, 
-            "topic": "FIFA"
+            "topic": "KNVB"
         }, 
         {
             "id": 22, 
-            "topic": "Fitbit"
+            "topic": "Apple"
         }, 
         {
             "id": 23, 
@@ -114,7 +114,7 @@
         }, 
         {
             "id": 29, 
-            "topic": "Febreze"
+            "topic": "Rituals"
         }, 
         {
             "id": 30, 
@@ -122,11 +122,11 @@
         }, 
         {
             "id": 31, 
-            "topic": "Kleenex"
+            "topic": "Pfizer"
         }, 
         {
             "id": 32, 
-            "topic": "Levi\u2019s"
+            "topic": "de NS"
         }, 
         {
             "id": 33, 
@@ -146,7 +146,7 @@
         }, 
         {
             "id": 37, 
-            "topic": "Mountain Dew"
+            "topic": "Raak"
         }, 
         {
             "id": 38, 
@@ -174,7 +174,7 @@
         }, 
         {
             "id": 44, 
-            "topic": "Pixar"
+            "topic": "Disney"
         }, 
         {
             "id": 45, 
@@ -190,7 +190,7 @@
         }, 
         {
             "id": 48, 
-            "topic": "Old Spice"
+            "topic": "Axe"
         }, 
         {
             "id": 49, 
@@ -226,31 +226,31 @@
         }, 
         {
             "id": 57, 
-            "topic": "eBay"
+            "topic": "de Nettorama"
         }, 
         {
             "id": 58, 
-            "topic": "Venmo"
+            "topic": "Tikkie"
         }, 
         {
             "id": 59, 
-            "topic": "Victoria\u2019s Secret"
+            "topic": "de Hunkemoller"
         }, 
         {
             "id": 60, 
-            "topic": "Visa"
+            "topic": "de Rabobank"
         }, 
         {
             "id": 61, 
-            "topic": "Blue Apron"
+            "topic": "de Action"
         }, 
         {
             "id": 62, 
-            "topic": "Whole Foods"
+            "topic": "ASML"
         }, 
         {
             "id": 63, 
-            "topic": "Yoplait"
+            "topic": "Yop"
         }, 
         {
             "id": 64, 
@@ -258,15 +258,15 @@
         }, 
         {
             "id": 65, 
-            "topic": "Lyft"
+            "topic": "Campina"
         }, 
         {
             "id": 66, 
-            "topic": "Charmin"
+            "topic": "de Albert Heijn"
         }, 
         {
             "id": 67, 
-            "topic": "Tide"
+            "topic": "de Jumbo"
         }
     ]
 }
