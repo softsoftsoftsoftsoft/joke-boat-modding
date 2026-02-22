@@ -569,5 +569,17 @@
       "categories": ",#brand",
       "type": "5"
     }
+    {
+      "punchline": "because <BLANK>",
+      "decoys": [
+        "JOKE FOR MEE HAHA"
+      ],
+      "timing": "4.25",
+      "x": false,
+      "setup": "I fucking hate <TOPIC>,",
+      "id": 66611,
+      "categories": ",#things",
+      "type": "1"
+    }
   ]
 }
